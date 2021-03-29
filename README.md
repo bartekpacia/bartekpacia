@@ -9,7 +9,7 @@ Anyway, I'm a high-school senior living in southern Poland in Europe.
 Here's some quick info about me:
 
 - I started programming when I was 14
-- I'm the creator and developer of [the Discover Rudy app](https://odkryjrudy.pl) for people visiting [my beautiful hometown](https://urodapodrozy.files.wordpress.com/2020/07/dsc_0802_edited-1.jpg) ✨
+- I'm the creator and developer of [the Discover Rudy app](https://odkryjrudy.pl) for people visiting [my hometown](https://urodapodrozy.files.wordpress.com/2020/07/dsc_0802_edited-1.jpg)
 - my main area of interest are mobile apps, both native and hybrid 📱
 - [I won](https://opensource.googleblog.com/2020/02/announcing-our-google-code-in-2019.html) [Google Code-in 2019](https://codein.withgoogle.com/archive/) (it was awesome) 🌉
 - over the years, I have created a few games, websites and other stuff using various technologies
