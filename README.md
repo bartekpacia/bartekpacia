@@ -1,16 +1,14 @@
 `printf "hello, wanderer\n"`
 
-I'm Bartek. Bartek Pacia.
+I'm Bartek and I live in Europe, in southern Poland. 
 
-_hmm, it doesn't sound as cool as I thought it would_
-
-Anyway, I'm a high-school senior living in southern Poland in Europe.
+I've just finished high-school and now I'm wondering what to do with my life.
 
 Here's some quick info about me:
 
 - I started programming when I was 14
 - I'm the creator and developer of [the Discover Rudy app](https://odkryjrudy.pl) for people visiting [my hometown](https://urodapodrozy.files.wordpress.com/2020/07/dsc_0802_edited-1.jpg)
-- my main area of interest are mobile apps, both native and hybrid 📱
+- my main area of interest are mobile apps, both native and cross-platform 📱
 - [I won](https://opensource.googleblog.com/2020/02/announcing-our-google-code-in-2019.html) [Google Code-in 2019](https://codein.withgoogle.com/archive/) (it was awesome) 🌉
 - over the years, I have created a few games, websites and other stuff using various technologies
 - I'm a member of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow), where we're working on a mars rover for ERC 2022
