@@ -2,7 +2,7 @@
 
 I'm Bartek and I live in Europe, in southern Poland. 
 
-I've just finished high-school and now I'm wondering what to do with my life.
+I've just graduated from high-school and now I'm wondering what to do with my life.
 
 Here's some quick info about me:
 
