@@ -2,7 +2,7 @@
 
 I'm Bartek and I live in Europe, in southern Poland. 
 
-I've just graduated from high-school and now I'm wondering what to do with my life.
+I've just graduated from high-school and plan to study Computer Science. I also work as Flutter developer at [LeanCode](https://leancode.co).
 
 Here's some quick info about me:
 
