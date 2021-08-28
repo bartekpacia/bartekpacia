@@ -2,7 +2,7 @@
 
 I'm Bartek and I live in Europe, in southern Poland. 
 
-I've just graduated from high-school and will study Computer Science at Silesian University of Technology. I also work as Flutter developer at [LeanCode](https://leancode.co).
+I've recently graduated from high-school and will study Computer Science at [Silesian University of Technology](https://www.polsl.pl/en). I also work as Flutter developer at [LeanCode](https://leancode.co).
 
 Here's some quick info about me:
 
