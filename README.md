@@ -2,7 +2,7 @@
 
 I'm Bartek and I live in Europe, in southern Poland. 
 
-I've recently graduated from high-school and will study Computer Science at [Silesian University of Technology](https://www.polsl.pl/en). I also work as Flutter developer at [LeanCode](https://leancode.co).
+I've recently graduated from high-school and am studying Computer Science at [Silesian University of Technology](https://www.polsl.pl/en). I also work as Flutter developer at [LeanCode](https://leancode.co).
 
 Here's some quick info about me:
 
@@ -14,4 +14,4 @@ Here's some quick info about me:
 - I'm a member of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow), where we're working on a mars rover for [ERC 2022](https://roverchallenge.eu/en/main-page)
 - I like running and riding a bike in the woods 🌳
 
-The fastest (and safest!) way to contact me is on [Telegram](https://t.me/bartekpacia).
+The fastest and most secure way to contact me is [Telegram](https://t.me/bartekpacia).
