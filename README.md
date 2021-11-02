@@ -2,9 +2,9 @@
 
 I'm Bartek and I live in Europe, in southern Poland. 
 
-I've recently graduated from high-school and am studying Computer Science at [Silesian University of Technology](https://www.polsl.pl/en). I also work as Flutter developer at [LeanCode](https://leancode.co).
+I've recently graduated from high-school. Now I study Computer Science at the [Silesian University of Technology](https://www.polsl.pl/en). I also work as Flutter developer at [LeanCode](https://leancode.co).
 
-Here's some quick info about me:
+Here's a few facts about me:
 
 - I started programming when I was 14
 - I'm the creator and developer of [the Discover Rudy app](https://odkryjrudy.pl) for people visiting [my hometown](https://urodapodrozy.files.wordpress.com/2020/07/dsc_0802_edited-1.jpg)
