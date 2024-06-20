@@ -1,6 +1,6 @@
 `printf "hello, wanderer\n"`
 
-I'm Bartek and I live in Europe, in southern Poland. 
+I'm Bartek and I live in Europe.
 
 A few facts about me:
 
