@@ -9,5 +9,3 @@ A few facts about me:
 - currently a Computer Science student @ Silesian University of Technology
 - over the years, I've created apps, games, websites, toy programs, and [some weird crazy stuff](https://youtu.be/WWUe42dH6nw) using various technologies
 - I like running and riding a bike in the woods
-
-The fastest and most secure way to contact me is [Telegram](https://t.me/bartekpacia).
